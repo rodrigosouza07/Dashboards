@@ -9,5 +9,3 @@ import dash_core_components as dcc
 adidas = pd.read_excel("Adidas.xlsx")
 adidas.head(5)
 
-
-
